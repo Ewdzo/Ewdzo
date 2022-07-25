@@ -15,9 +15,9 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ewdzo&show_icons=true&theme=vision-friendly-dark" alt="Enzo Weder's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=ewdzo&show_icons=true&theme=dark" alt="Enzo Weder's stats"/>
 <br><br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewdzo&layout=compact&theme=vision-friendly-dark" alt="Enzo Weder's most used languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewdzo&layout=compact&theme=dark" alt="Enzo Weder's most used languages"/>
 </p>
 
 ## Contact
