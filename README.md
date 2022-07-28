@@ -26,9 +26,6 @@
 <a href="https://codepen.io/ewdzo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Ewdzo-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/ew_dz0" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-Ewdzo-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
 <a href="https://linkedin.com/in/enzoweder" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Enzo Weder-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
