@@ -33,6 +33,6 @@
  <img align="center" src="https://img.shields.io/badge/-ew_dz0-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.instagram.com/ew_dz0" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-ew_dz0-05122A?style=flat&logo=gmail" alt="gmail"/>
+ <img align="center" src="https://img.shields.io/badge/-Enzo Weder-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 </p>
