@@ -3,7 +3,7 @@
 
 - ☄️ Junior Web Developer
 
-- 🌊 I’m currently graduating in Computer Engineering at UTFPR
+- 🌊 I’m currently graduating in Information Systems at UFU 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, React**
 
