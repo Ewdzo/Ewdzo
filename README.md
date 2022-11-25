@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Enzo Weder 🌌</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ewdzo&color=blue" alt="Profile views" /> </p>
 
-- ☄️ Junior Web Developer
+- ☄️ Web Developer
 
 - 🌊 I’m currently graduating in Information Systems at UFU 
 
