@@ -17,7 +17,7 @@
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=ewdzo&show_icons=true&theme=dark" alt="Enzo Weder's stats"/>
 <br><br>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewdzo&layout=compact&theme=dark" alt="Enzo Weder's most used languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewdzo&layout=compact&theme=dark&exclude-repos=DataStructure1_UFU" alt="Enzo Weder's most used languages"/>
 </p>
 
 ## 📱 Where to Find Me
