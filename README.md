@@ -20,7 +20,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewdzo&layout=compact&theme=dark" alt="Enzo Weder's most used languages"/>
 </p>
 
-## 📱 Contact
+## 📱 Where to Find Me
 
 <p align="left" style="background:white">
 <a href="https://codepen.io/ewdzo" target="_blank">
