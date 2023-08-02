@@ -5,9 +5,9 @@
 
 - 🌊 I’m currently graduating in Information Systems at UFU 
 
-- 💬 Ask me about **JavaScript, HTML, CSS, React**
+- 💬 Ask me about **JavaScript, React, Firebase, Node.JS**
 
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning React and Firebase Integration.
 
 - 🗣️ Pronouns: He/Him
 
