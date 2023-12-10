@@ -5,7 +5,7 @@
 
 - 🌊 I’m currently graduating in Information Systems at UFU 
 
-- 💬 Ask me about **JavaScript, React, Firebase, Node.JS**
+- 💬 Ask me about **TypeScript, React, Mongodb, Node.JS**
 
 - 🌱 I’m currently learning React and Firebase Integration.
 
@@ -44,6 +44,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Mongodb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase)&nbsp;
 ![MySql](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
