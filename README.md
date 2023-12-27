@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ew_dz0" target="blank"><img src="https://img.shields.io/twitter/follow/ew_dz0?logo=twitter&style=for-the-badge" alt="ew_dz0" /></a> </p>
 
-- 🔭 I’m currently working on [PETAPI](https://github.com/ImNotPETSIMC/PETApi)
+- 🔭 I’m currently working on [PETAPI](https://github.com/ImNotPETSIMC/PETApi) and [PETSITE v2](https://github.com/ImNotPETSIMC/PETSITE-v2)
 
 - 🌱 I’m currently learning **Express**
 
