@@ -47,7 +47,7 @@
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewdzo&show_icons=true&locale=en&layout=compact&theme=dark" alt="ewdzo" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewdzo&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=TF_POO2,DataStructure1_UFU" alt="ewdzo" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewdzo&show_icons=true&locale=en&theme=dark" alt="ewdzo" /></p>
 
