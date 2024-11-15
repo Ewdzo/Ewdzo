@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://twitter.com/ew_dz0" target="blank"><img src="https://img.shields.io/twitter/follow/ew_dz0?logo=twitter&style=for-the-badge" alt="ew_dz0" /></a> </p>
 
-- 🔭 I’m currently working on [PETAPI](https://github.com/Ewdzo/PETApi) and [PETSITE v2](https://github.com/Ewdzo/PETSITE-v2)
+- 🔭 I’m currently working at [VILT](https://www.vilt-group.com/pt/)
 
-- 🌱 I’m currently learning **Express**
+- 🌱 I’m currently learning **Adobe Experience Manager**
 
-- 💬 Ask me about **React, MongoDB, Typescript**
+- 💬 Ask me about **React, Next, MongoDB, Typescript**
 
 - 📫 How to reach me **enzowederma@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFY5hR4PLA/iepguvjDK8maN_EY1Dnbfw/view?utm_content=DAFY5hR4PLA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
-- ⚡ Fun fact **my favorite movie is Moonlight (2016)**
+- ⚡ Fun fact **my favorite movie is Whiplash (2014)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
