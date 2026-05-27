@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working at [VILT](https://www.vilt-group.com/pt/)
 
-- 🌱 I’m currently learning **Adobe Experience Manager**
+- 🌱 I’m currently learning **Nest.JS**
 
 - 💬 Ask me about **React, Next, MongoDB, Typescript**
 
