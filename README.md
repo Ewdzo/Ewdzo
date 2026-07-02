@@ -5,15 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/ew_dz0" target="blank"><img src="https://img.shields.io/twitter/follow/ew_dz0?logo=twitter&style=for-the-badge" alt="ew_dz0" /></a> </p>
 
-- 🔭 I’m currently working at [VILT](https://www.vilt-group.com/pt/)
+- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/br-pt)
 
 - 🌱 I’m currently learning **Nest.JS**
 
 - 💬 Ask me about **React, Next, MongoDB, Typescript**
 
 - 📫 How to reach me **enzowederma@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://www.canva.com/design/DAFY5hR4PLA/iepguvjDK8maN_EY1Dnbfw/view?utm_content=DAFY5hR4PLA&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 - ⚡ Fun fact **my favorite movie is Whiplash (2014)**
 
@@ -46,7 +44,3 @@
 ![Arduino](https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino)&nbsp;
 ![C](https://img.shields.io/badge/C-05122A?style=flat&logo=C)&nbsp;
 ![Python](https://img.shields.io/badge/Python-05122A?style=flat&logo=python)&nbsp;
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ewdzo&show_icons=true&locale=en&layout=compact&theme=dark&exclude_repo=TF_POO2,DataStructure1_UFU" alt="ewdzo" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ewdzo&show_icons=true&locale=en&theme=dark" alt="ewdzo" /></p>
